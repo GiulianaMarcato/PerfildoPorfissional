@@ -1,4 +1,4 @@
-#Explorando Pesquisa Sobre o Perfil do Profissional de Tecnologia
+# Explorando Pesquisa Sobre o Perfil do Profissional de Tecnologia
 
 Conjunto de dados selecionado conforme indicado em aula. A exploração do conjunto de dados e as observações feitas foram criadas a partir da execução de exercício em aula, e também observação do comportamento dos dados.
 
